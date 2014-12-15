@@ -6,7 +6,7 @@ It has a really small code size and is perfect for simple debugging over uart.
 
 Not nice coding style but I put all in one header file for easy usage.
 
-The example runs on an attiny45@1MHz and transmits/receives with 115200 Baud.
+The example runs on an attiny45@8MHz and transmits/receives with 115200 Baud.
 
 Configuration
 =============
