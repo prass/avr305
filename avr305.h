@@ -1,3 +1,4 @@
+/* See LICENSE file for copyright and license details. */
 #include <avr/io.h>
 
 //Set tx to PB2 / rx to PB1
